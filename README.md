@@ -1,0 +1,2 @@
+# Hakain
+Hakain Trading Journal
